@@ -1,0 +1,36 @@
+body{
+    background-color: #f2f2f2;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1{
+    box-shadow: 0px 12px 18px 0px rgba(255, 89, 105, 0.5);
+    Offset: 0dp, 12dp#80FF5969;
+    Fill: Solid #FFFFFF;
+}
+
+button{
+    width: 250px;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: blue;
+    color: #FFFFFF;
+}
+
+.div{
+    width: 250px;
+    margin:0 auto;
+    border:1px solid #80FF5969;
+}
+
+img{
+    width: 250px;
+    margin:0 auto;
+}
